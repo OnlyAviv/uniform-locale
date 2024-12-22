@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onlyaviv/uniform-locale.git"
+    "url": "git+https://github.com/avivkeller/uniform-locale.git"
   },
   "bugs": {
-    "url": "https://github.com/onlyaviv/uniform-locale/issues"
+    "url": "https://github.com/avivkeller/uniform-locale/issues"
   },
-  "homepage": "https://github.com/onlyaviv/uniform-locale#readme"
+  "homepage": "https://github.com/avivkeller/uniform-locale#readme"
 }
